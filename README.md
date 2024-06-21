@@ -1,4 +1,4 @@
-# OverView
+# Over View
 
 The objective of this analysis was to evaluate the landscape of data analyst jobs, particularly focusing on the skills and salary distributions associated with these roles. The analysis leveraged various data visualizations to provide insights into the most optimal skills, highest paid roles, and salary distributions for data analysts in the United States.
 
