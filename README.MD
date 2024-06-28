@@ -4,12 +4,16 @@
 
 # Questions Asked
 * How does the store area affect store sales?
+
   • Plot a scatter plot of Store_Area vs. Store_Sales to investigate if there’s a correlation between the area of a store and its sales figures.
 * What is the distribution of store sales across all stores?
+
   • Create a histogram of Store_Sales to understand the distribution and identify any skewness or outliers in the sales data.
 * Is there a relationship between the number of items available and daily customer count?
+
   • Plot a scatter plot of Items_Available vs. Daily_Customer_Count to see if stores with more items attract more customers on a daily basis.
 * How do daily customer counts correlate with store sales?
+
   • Create a scatter plot of Daily_Customer_Count vs. Store_Sales to determine if stores with higher customer counts tend to have higher sales.
 
 # Tools Used
