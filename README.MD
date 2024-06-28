@@ -3,8 +3,7 @@
 - This project involves an analysis of store sales data to uncover insights and patterns that can help in understanding the factors that influence sales. The dataset contains various attributes of stores such as their area, the number of items available, daily customer count, and sales figures.
 
 # Questions Asked
-
--  * How does the store area affect store sales?
+* How does the store area affect store sales?
   • Plot a scatter plot of Store_Area vs. Store_Sales to investigate if there’s a correlation between the area of a store and its sales figures.
 * What is the distribution of store sales across all stores?
   • Create a histogram of Store_Sales to understand the distribution and identify any skewness or outliers in the sales data.
